@@ -10,6 +10,64 @@
     <main>
       <form action="/submit">
         <!-- Add your code here -->
+        <h1>Form</h1>
+        <div>
+          <label for="name">Name:</label>
+          <input type="text" id="name" name="name" placeholder="Full Name" />
+        </div>
+        <div>
+          <label for="email">Email:</label>
+          <input
+            type="email"
+            id="email"
+            name="email"
+            placeholder="name@email.com"
+          />
+        </div>
+        <br />
+        <fieldset>
+          <legend>Favorite Character</legend>
+          <input type="radio" id="jen" name="character" value="Jen Barber" />
+          <label for="jen">Jen Barber</label>
+          <br />
+          <input
+            type="radio"
+            id="maurice"
+            name="character"
+            value="Maurice Moss"
+          />
+          <label for="maurice">Maurice Moss</label>
+          <br />
+          <input type="radio" id="roy" name="character" value="Roy Trenneman" />
+          <label for="roy">Roy Trenneman</label>
+          <br />
+          <input
+            type="radio"
+            id="douglas"
+            name="character"
+            value="Douglas Reynholm"
+          />
+          <label for="douglas">Douglas Reynholm</label>
+        </fieldset>
+        <br />
+        <fieldset>
+          <legend>Did you turn it off an on again?</legend>
+          <input type="checkbox" id="yes" name="offandon" value="Yes" />
+          <label for="yes">Yes</label>
+          <br />
+          <input
+            type="checkbox"
+            id="yesbutnot"
+            name="offandon"
+            value="Not Yes"
+          />
+          <label for="yesbutnot"
+            >Yes...? but what if you made sure for me...</label
+          >
+        </fieldset>
+        <br />
+        <input type="submit" value="Submit" />
+        <input type="reset" value="Reset" />
       </form>
     </main>
   </body>
