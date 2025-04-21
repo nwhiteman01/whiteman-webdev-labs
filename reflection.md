@@ -27,6 +27,28 @@ I would've liked an exercies that encompasses everything from the former exercie
 
 Enter your reflections on this section here.
 
+1. Were you able to complete the exercises on your own or did you use the
+   videos or the solutions for help?
+
+I was able to completet the exercise on my own as it was similar to the previous week's form exercise.
+
+2. How helpful did you find the exercises in this section? Was there one
+   exercise that was particularly helpful?
+
+I found the exercise mildly helpful. It does help you look and understand the accessibility programs a little more and what they are looking for
+when auditing.
+
+3. Was there something that you wish had been explained better?
+
+I would've liked a little more detail on the performance and other options that the Lighthouse program has. I also would've like some more detail
+on why these are errors to the program.
+
+4. Were there other exercises that might have helped you learn this week’s
+   topic a little better?
+
+I personally would've liked more exercieses that had a variety of errors. This one only really had label errors, but some more things similar
+to the homework 1 would've been nice.
+
 ### CSS
 
 Enter your reflections on this section here.
