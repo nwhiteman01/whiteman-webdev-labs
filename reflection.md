@@ -52,3 +52,25 @@ to the homework 1 would've been nice.
 ### CSS
 
 Enter your reflections on this section here.
+
+1. Were you able to complete the exercises on your own or did you use the
+   videos or the solutions for help?
+
+I was able to complete the exercises primarily on my own with a little bit of help from the videos. Most of the video watching I did
+was for media queries.
+
+2. How helpful did you find the exercises in this section? Was there one
+   exercise that was particularly helpful?
+
+I found the exercises very helpful. I think the layout.css was very useful as it was able to clearly show the differences between
+types.
+
+3. Was there something that you wish had been explained better?
+
+I personally wished that specificity was done in a bit more detail. I understand the concept, but I would've liked some
+more problems on it. Perhaps visually seeing the differences.
+
+4. Were there other exercises that might have helped you learn this week’s
+   topic a little better?
+
+In general, just more exercises that utilize all these tools so we can get more practical use with it.
