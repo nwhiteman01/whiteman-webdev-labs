@@ -74,3 +74,75 @@ more problems on it. Perhaps visually seeing the differences.
    topic a little better?
 
 In general, just more exercises that utilize all these tools so we can get more practical use with it.
+
+### Flexbox
+
+Enter your reflections on this section here.
+
+1. Were you able to complete the exercises on your own or did you use the
+   videos or the solutions for help?
+
+I was able to complete the Flexbox exercises on my own with the exception of the Flexbox container-5.
+I needed some help with the individual containers.
+
+2. How helpful did you find the exercises in this section? Was there one
+   exercise that was particularly helpful?
+
+I found this pretty helpful as it had a lot of varying problems which kept giving new challenges.
+
+3. Was there something that you wish had been explained better?
+
+I would've liked the individual items and their traits explained a little better on the slides since it
+didn't have any information on them. Other than that it was good.
+
+4. Were there other exercises that might have helped you learn this week’s
+   topic a little better?
+
+I don't think so, the excerise was very helpful.
+
+### CSS-Grid
+
+Enter your reflections on this section here.
+
+1. Were you able to complete the exercises on your own or did you use the
+   videos or the solutions for help?
+
+I was able to complete these exercises by myself without the video solutions.
+
+2. How helpful did you find the exercises in this section? Was there one
+   exercise that was particularly helpful?
+
+I found these pretty helpful as it is similar to the Flexbox exercises that helped me understand CSS Grid
+
+3. Was there something that you wish had been explained better?
+
+Personally, I found it pretty straightforward so I think the explanation was well done.
+
+4. Were there other exercises that might have helped you learn this week’s
+   topic a little better?
+
+I don't believe so, both were strong in helping me understand the topic.
+
+### Bootstrap
+
+Enter your reflections on this section here.
+
+1. Were you able to complete the exercises on your own or did you use the
+   videos or the solutions for help?
+
+I had to use some help from the videos for this one to get it specifically right.
+
+2. How helpful did you find the exercises in this section? Was there one
+   exercise that was particularly helpful?
+
+I found that these were helpful in learning how to use the Bootstrap documentation. The cards exercise was the
+most helpful to me as it was my first usage with Bootstrap in a while.
+
+3. Was there something that you wish had been explained better?
+
+In general just more exercises with Boostrap would've been nice. The exercises were good here, but just in general wanted a bit more.
+
+4. Were there other exercises that might have helped you learn this week’s
+   topic a little better?
+
+Would have loved to learn more about Forms and other components of Bootstrap.
