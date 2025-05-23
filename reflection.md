@@ -146,3 +146,31 @@ In general just more exercises with Boostrap would've been nice. The exercises w
    topic a little better?
 
 Would have loved to learn more about Forms and other components of Bootstrap.
+
+### Javascript
+
+Enter your reflections on this section here.
+
+1. Were you able to complete the exercises on your own or did you use the
+   videos or the solutions for help?
+
+I had to use the videos for help especially in the last two exercicses as those ones were far more in depth
+
+2. How helpful did you find the exercises in this section? Was there one
+   exercise that was particularly helpful?
+
+I found that these exercises were helpful as they go through a variety amount of things you'd see in Javascript. I found that the fetch
+exercise to be the most helpful to me because of the step by step process of getting the api and utilizing it on the webpage.
+
+3. Was there something that you wish had been explained better?
+
+Functional programming could've been a bit more in depth in general since it is a different way of programming, however,
+I understand that functional programming usage varies outside of the classroom and sometimes people just don't use it
+at all.
+
+4. Were there other exercises that might have helped you learn this week’s
+   topic a little better?
+
+I would like to see an all encompassing exercise that does work and an api and makes more of a proper page with
+the exercises before it. It could be a simple site so we can see how Javascript can be used to make a page based
+off of data sets.
